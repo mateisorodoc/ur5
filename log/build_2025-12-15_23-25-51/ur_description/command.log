@@ -1,0 +1,2 @@
+Invoking command in '/home/matei/ur_yt_ws/build/ur_description': /usr/bin/cmake /home/matei/ur_yt_ws/src/Universal_Robots_ROS2_Description -DCMAKE_INSTALL_PREFIX=/home/matei/ur_yt_ws/install/ur_description
+Invoked command in '/home/matei/ur_yt_ws/build/ur_description' returned '1': /usr/bin/cmake /home/matei/ur_yt_ws/src/Universal_Robots_ROS2_Description -DCMAKE_INSTALL_PREFIX=/home/matei/ur_yt_ws/install/ur_description

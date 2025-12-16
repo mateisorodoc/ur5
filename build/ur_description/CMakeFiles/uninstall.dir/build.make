@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/matei/ur_yt_ws/src/Universal_Robots_ROS2_Description
+CMAKE_SOURCE_DIR = /home/matei/ut_yt_ws/src/Universal_Robots_ROS2_Description
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/matei/ur_yt_ws/build/ur_description
+CMAKE_BINARY_DIR = /home/matei/ut_yt_ws/build/ur_description
 
 # Utility rule file for uninstall.
 
@@ -78,6 +78,6 @@ CMakeFiles/uninstall.dir/clean:
 .PHONY : CMakeFiles/uninstall.dir/clean
 
 CMakeFiles/uninstall.dir/depend:
-	cd /home/matei/ur_yt_ws/build/ur_description && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/matei/ur_yt_ws/src/Universal_Robots_ROS2_Description /home/matei/ur_yt_ws/src/Universal_Robots_ROS2_Description /home/matei/ur_yt_ws/build/ur_description /home/matei/ur_yt_ws/build/ur_description /home/matei/ur_yt_ws/build/ur_description/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/matei/ut_yt_ws/build/ur_description && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/matei/ut_yt_ws/src/Universal_Robots_ROS2_Description /home/matei/ut_yt_ws/src/Universal_Robots_ROS2_Description /home/matei/ut_yt_ws/build/ur_description /home/matei/ut_yt_ws/build/ur_description /home/matei/ut_yt_ws/build/ur_description/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/uninstall.dir/depend
 

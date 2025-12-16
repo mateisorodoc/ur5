@@ -1,0 +1,2 @@
+Invoking command in '/home/matei/ut_yt_ws/src/build/ur_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/matei/ut_yt_ws/src/Universal_Robots_ROS2_Description -DCMAKE_INSTALL_PREFIX=/home/matei/ut_yt_ws/src/install/ur_description
+Invoked command in '/home/matei/ut_yt_ws/src/build/ur_description' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/matei/ut_yt_ws/src/Universal_Robots_ROS2_Description -DCMAKE_INSTALL_PREFIX=/home/matei/ut_yt_ws/src/install/ur_description

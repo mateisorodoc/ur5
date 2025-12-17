@@ -2,6 +2,9 @@
 build/
 install/
 log/
+/home/matei/ur_yt_ws/src/build
+/home/matei/ur_yt_ws/src/log
+/home/matei/ur_yt_ws/src/install
 
 # Python artifacts
 *.pyc

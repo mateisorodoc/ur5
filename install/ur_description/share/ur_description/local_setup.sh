@@ -1,1 +1,0 @@
-/home/matei/ur_yt_ws/build/ur_description/ament_cmake_environment_hooks/local_setup.sh

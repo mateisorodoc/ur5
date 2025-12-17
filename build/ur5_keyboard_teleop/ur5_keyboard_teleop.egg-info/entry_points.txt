@@ -1,0 +1,3 @@
+[console_scripts]
+joint_teleop = ur5_keyboard_teleop.joint_teleop:main
+

@@ -1,0 +1,17 @@
+[0.334s] Invoking command in '/home/matei/ur_yt_ws/build/ur5_keyboard_teleop': PYTHONPATH=/home/matei/ur_yt_ws/build/ur5_keyboard_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/matei/ur_yt_ws/install/ur5_keyboard_teleop/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/matei/ur_yt_ws/build/ur5_keyboard_teleop/build --no-deps symlink_data
+[0.467s] running develop
+[0.531s] running egg_info
+[0.531s] writing ur5_keyboard_teleop.egg-info/PKG-INFO
+[0.531s] writing dependency_links to ur5_keyboard_teleop.egg-info/dependency_links.txt
+[0.532s] writing entry points to ur5_keyboard_teleop.egg-info/entry_points.txt
+[0.532s] writing requirements to ur5_keyboard_teleop.egg-info/requires.txt
+[0.532s] writing top-level names to ur5_keyboard_teleop.egg-info/top_level.txt
+[0.533s] reading manifest file 'ur5_keyboard_teleop.egg-info/SOURCES.txt'
+[0.534s] writing manifest file 'ur5_keyboard_teleop.egg-info/SOURCES.txt'
+[0.534s] running build_ext
+[0.534s] Creating /home/matei/ur_yt_ws/install/ur5_keyboard_teleop/lib/python3.10/site-packages/ur5-keyboard-teleop.egg-link (link to .)
+[0.535s] Installing joint_teleop script to /home/matei/ur_yt_ws/install/ur5_keyboard_teleop/lib/ur5_keyboard_teleop
+[0.535s] 
+[0.535s] Installed /home/matei/ur_yt_ws/build/ur5_keyboard_teleop
+[0.535s] running symlink_data
+[0.549s] Invoked command in '/home/matei/ur_yt_ws/build/ur5_keyboard_teleop' returned '0': PYTHONPATH=/home/matei/ur_yt_ws/build/ur5_keyboard_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/matei/ur_yt_ws/install/ur5_keyboard_teleop/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/matei/ur_yt_ws/build/ur5_keyboard_teleop/build --no-deps symlink_data

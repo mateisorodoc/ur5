@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing ur5_keyboard_teleop.egg-info/PKG-INFO
+writing dependency_links to ur5_keyboard_teleop.egg-info/dependency_links.txt
+writing entry points to ur5_keyboard_teleop.egg-info/entry_points.txt
+writing requirements to ur5_keyboard_teleop.egg-info/requires.txt
+writing top-level names to ur5_keyboard_teleop.egg-info/top_level.txt
+reading manifest file 'ur5_keyboard_teleop.egg-info/SOURCES.txt'
+writing manifest file 'ur5_keyboard_teleop.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/matei/ur_yt_ws/install/ur5_keyboard_teleop/lib/python3.10/site-packages/ur5-keyboard-teleop.egg-link (link to .)
+Installing keyboard_teleop script to /home/matei/ur_yt_ws/install/ur5_keyboard_teleop/lib/ur5_keyboard_teleop
+
+Installed /home/matei/ur_yt_ws/build/ur5_keyboard_teleop
+running symlink_data

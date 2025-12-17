@@ -1,0 +1,36 @@
+[0.402s] Invoking command in '/home/matei/ur_yt_ws/build/ur5_keyboard_teleop': PYTHONPATH=/home/matei/ur_yt_ws/build/ur5_keyboard_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/matei/ur_yt_ws/install/ur5_keyboard_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/matei/ur_yt_ws/build/ur5_keyboard_teleop/build
+[0.574s] running develop
+[0.690s] Removing /home/matei/ur_yt_ws/install/ur5_keyboard_teleop/lib/python3.10/site-packages/ur5-keyboard-teleop.egg-link (link to .)
+[0.706s] Invoked command in '/home/matei/ur_yt_ws/build/ur5_keyboard_teleop' returned '0': PYTHONPATH=/home/matei/ur_yt_ws/build/ur5_keyboard_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/matei/ur_yt_ws/install/ur5_keyboard_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/matei/ur_yt_ws/build/ur5_keyboard_teleop/build
+[0.707s] Invoking command in '/home/matei/ur_yt_ws/src/ur5_keyboard_teleop': PYTHONPATH=/home/matei/ur_yt_ws/build/ur5_keyboard_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/matei/ur_yt_ws/install/ur5_keyboard_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ur5_keyboard_teleop build --build-base /home/matei/ur_yt_ws/build/ur5_keyboard_teleop/build install --record /home/matei/ur_yt_ws/build/ur5_keyboard_teleop/install.log --single-version-externally-managed install_data --force
+[0.870s] running egg_info
+[0.870s] writing ../../build/ur5_keyboard_teleop/ur5_keyboard_teleop.egg-info/PKG-INFO
+[0.870s] writing dependency_links to ../../build/ur5_keyboard_teleop/ur5_keyboard_teleop.egg-info/dependency_links.txt
+[0.870s] writing entry points to ../../build/ur5_keyboard_teleop/ur5_keyboard_teleop.egg-info/entry_points.txt
+[0.870s] writing requirements to ../../build/ur5_keyboard_teleop/ur5_keyboard_teleop.egg-info/requires.txt
+[0.870s] writing top-level names to ../../build/ur5_keyboard_teleop/ur5_keyboard_teleop.egg-info/top_level.txt
+[0.873s] reading manifest file '../../build/ur5_keyboard_teleop/ur5_keyboard_teleop.egg-info/SOURCES.txt'
+[0.873s] writing manifest file '../../build/ur5_keyboard_teleop/ur5_keyboard_teleop.egg-info/SOURCES.txt'
+[0.873s] running build
+[0.873s] running build_py
+[0.873s] creating /home/matei/ur_yt_ws/build/ur5_keyboard_teleop/build
+[0.873s] creating /home/matei/ur_yt_ws/build/ur5_keyboard_teleop/build/lib
+[0.874s] creating /home/matei/ur_yt_ws/build/ur5_keyboard_teleop/build/lib/ur5_keyboard_teleop
+[0.874s] copying ur5_keyboard_teleop/__init__.py -> /home/matei/ur_yt_ws/build/ur5_keyboard_teleop/build/lib/ur5_keyboard_teleop
+[0.874s] copying ur5_keyboard_teleop/keyboard_teleop.py -> /home/matei/ur_yt_ws/build/ur5_keyboard_teleop/build/lib/ur5_keyboard_teleop
+[0.874s] running install
+[0.874s] running install_lib
+[0.874s] creating /home/matei/ur_yt_ws/install/ur5_keyboard_teleop/lib/python3.10/site-packages/ur5_keyboard_teleop
+[0.874s] copying /home/matei/ur_yt_ws/build/ur5_keyboard_teleop/build/lib/ur5_keyboard_teleop/__init__.py -> /home/matei/ur_yt_ws/install/ur5_keyboard_teleop/lib/python3.10/site-packages/ur5_keyboard_teleop
+[0.874s] copying /home/matei/ur_yt_ws/build/ur5_keyboard_teleop/build/lib/ur5_keyboard_teleop/keyboard_teleop.py -> /home/matei/ur_yt_ws/install/ur5_keyboard_teleop/lib/python3.10/site-packages/ur5_keyboard_teleop
+[0.875s] byte-compiling /home/matei/ur_yt_ws/install/ur5_keyboard_teleop/lib/python3.10/site-packages/ur5_keyboard_teleop/__init__.py to __init__.cpython-310.pyc
+[0.875s] byte-compiling /home/matei/ur_yt_ws/install/ur5_keyboard_teleop/lib/python3.10/site-packages/ur5_keyboard_teleop/keyboard_teleop.py to keyboard_teleop.cpython-310.pyc
+[0.875s] running install_data
+[0.875s] copying resource/ur5_keyboard_teleop -> /home/matei/ur_yt_ws/install/ur5_keyboard_teleop/share/ament_index/resource_index/packages
+[0.875s] copying package.xml -> /home/matei/ur_yt_ws/install/ur5_keyboard_teleop/share/ur5_keyboard_teleop
+[0.876s] running install_egg_info
+[0.877s] Copying ../../build/ur5_keyboard_teleop/ur5_keyboard_teleop.egg-info to /home/matei/ur_yt_ws/install/ur5_keyboard_teleop/lib/python3.10/site-packages/ur5_keyboard_teleop-0.0.0-py3.10.egg-info
+[0.877s] running install_scripts
+[0.890s] Installing keyboard_teleop script to /home/matei/ur_yt_ws/install/ur5_keyboard_teleop/lib/ur5_keyboard_teleop
+[0.890s] writing list of installed files to '/home/matei/ur_yt_ws/build/ur5_keyboard_teleop/install.log'
+[0.903s] Invoked command in '/home/matei/ur_yt_ws/src/ur5_keyboard_teleop' returned '0': PYTHONPATH=/home/matei/ur_yt_ws/build/ur5_keyboard_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/matei/ur_yt_ws/install/ur5_keyboard_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ur5_keyboard_teleop build --build-base /home/matei/ur_yt_ws/build/ur5_keyboard_teleop/build install --record /home/matei/ur_yt_ws/build/ur5_keyboard_teleop/install.log --single-version-externally-managed install_data --force
